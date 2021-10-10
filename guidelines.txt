@@ -1,0 +1,3 @@
+:: I have created this folder to contain everything that might be useful for me in my career (algorithms, data-structures or notes)
+
+
