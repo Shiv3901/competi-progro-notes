@@ -1,0 +1,9 @@
+
+-> the data structure is known for storing information about intervals or segments
+
+-> there are 2 things to decide before writing the code for segment trees:
+
+    -- the value that gets stored inside every node (eg :the index value for sum seg tree)
+    -- the merge operation which will inturn fill up the entire tree
+
+-> 
