@@ -61,6 +61,9 @@ int query(int l, int r)
 // driver program
 int main() 
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
     vector<int> a {1, 2, 3, 4, 5, 6, 7, 8};
 
     int ri = ffs(a.size()) + 2;
